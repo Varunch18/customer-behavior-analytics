@@ -1,0 +1,2 @@
+test,group_1,group_2,t_statistic,p_value,significant_at_0.05
+Welch independent t-test,Subscribers,Non-subscribers,-0.4395786253862316,0.6602922539880339,False
