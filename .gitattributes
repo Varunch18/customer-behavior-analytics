@@ -1,0 +1,8 @@
+# Suppress Power BI binary files from GitHub Linguist language detection
+*.pbix linguist-detectable=false
+*.pbix linguist-vendored=true
+*.pbit linguist-detectable=false
+*.pbit linguist-vendored=true
+
+# Force GitHub to recognize SQL files
+*.sql linguist-language=SQL linguist-detectable=true
