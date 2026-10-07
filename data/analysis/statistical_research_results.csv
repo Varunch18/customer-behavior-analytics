@@ -1,0 +1,5 @@
+research_question,test,statistic,p_value,significant_at_0.05
+Does subscription status affect purchase amount?,Welch independent t-test,-0.4395786253862316,0.6602922539880339,False
+Does purchase amount differ across categories?,One-way ANOVA,1.4536190218138958,0.22521939885865852,False
+Does purchase amount differ across seasons?,One-way ANOVA,3.746118346099816,0.01057615562947994,True
+Is purchase history associated with current purchase amount?,Spearman correlation,0.008314955953859364,0.6036830945527644,False
